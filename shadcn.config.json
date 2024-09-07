@@ -1,0 +1,11 @@
+{
+    "components": {
+      "Button": {
+        "default": {
+          "color": "blue",
+          "size": "medium"
+        }
+      }
+    }
+  }
+  
